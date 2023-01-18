@@ -1,0 +1,17 @@
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+:root{
+  background-color: #dddfd4;
+  
+}
+/*
+.force-to-bottom {
+  position:absolute;
+  bottom: 5%;
+  width: 100%;
+}
+*/
